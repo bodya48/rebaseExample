@@ -20,6 +20,13 @@
     NSString *string = @"First commit log";
     NSString *string2 = @"Second commit log";
     NSString *string3 = @"Third commit log";
+    
+    [self firstMethod];
+}
+
+
+- (void)firstMethod {
+    NSLog(@"%s", __func__);
 }
 
 
