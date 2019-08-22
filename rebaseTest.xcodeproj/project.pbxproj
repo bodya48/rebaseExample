@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0EE82F7230EBB8C007EF658 /* Feature2Class.m in Sources */ = {isa = PBXBuildFile; fileRef = D0EE82F6230EBB8C007EF658 /* Feature2Class.m */; };
 		D0FCDC9C230EB54800BA0E91 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FCDC9B230EB54800BA0E91 /* AppDelegate.m */; };
 		D0FCDC9F230EB54800BA0E91 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0FCDC9E230EB54800BA0E91 /* ViewController.m */; };
 		D0FCDCA2230EB54800BA0E91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0FCDCA0230EB54800BA0E91 /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0EE82F5230EBB8C007EF658 /* Feature2Class.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Feature2Class.h; sourceTree = "<group>"; };
+		D0EE82F6230EBB8C007EF658 /* Feature2Class.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Feature2Class.m; sourceTree = "<group>"; };
 		D0FCDC97230EB54800BA0E91 /* rebaseTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rebaseTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0FCDC9A230EB54800BA0E91 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D0FCDC9B230EB54800BA0E91 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				D0FCDC9B230EB54800BA0E91 /* AppDelegate.m */,
 				D0FCDC9D230EB54800BA0E91 /* ViewController.h */,
 				D0FCDC9E230EB54800BA0E91 /* ViewController.m */,
+				D0EE82F5230EBB8C007EF658 /* Feature2Class.h */,
+				D0EE82F6230EBB8C007EF658 /* Feature2Class.m */,
 				D0FCDCA0230EB54800BA0E91 /* Main.storyboard */,
 				D0FCDCA3230EB54900BA0E91 /* Assets.xcassets */,
 				D0FCDCA5230EB54900BA0E91 /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			files = (
 				D0FCDC9F230EB54800BA0E91 /* ViewController.m in Sources */,
 				D0FCDCAA230EB54900BA0E91 /* main.m in Sources */,
+				D0EE82F7230EBB8C007EF658 /* Feature2Class.m in Sources */,
 				D0FCDC9C230EB54800BA0E91 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
