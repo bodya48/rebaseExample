@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    NSString *string = @"First commit log";
+    NSString *string2 = @"Second commit log";
+    NSString *string3 = @"Third commit log";
 }
 
 
