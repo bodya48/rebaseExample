@@ -22,12 +22,12 @@
     NSString *string3 = @"Third commit log";
     NSString *string4 = @"Fourth commit log";
     
-    [self firstMethod];
+    [self feature1Method];
 }
 
 
-- (void)firstMethod {
-    NSLog(@"%s", __func__);
+- (void)feature1Method {
+    NSLog(@"feature1Method");
 }
 
 
